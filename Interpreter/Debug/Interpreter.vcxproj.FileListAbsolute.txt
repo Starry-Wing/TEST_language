@@ -1,0 +1,4 @@
+C:\Users\StarryWing\Desktop\编译原理\项目\Interpreter\Debug\Interpreter.exe
+C:\Users\StarryWing\Desktop\编译原理\项目\Interpreter\Debug\Interpreter.pdb
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\Debug\Interpreter.exe
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\Debug\Interpreter.pdb

@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\lex.h(287,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(185,15): warning C4101: “i”: 未引用的局部变量
+  sem.cpp
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(153,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\sem.h(185,15): warning C4101: “i”: 未引用的局部变量
+  syn.cpp
+  正在生成代码...
+  Interpreter.vcxproj -> C:\Users\StarryWing\Desktop\编译原理\TEST语言编译系统\Interpreter\Debug\Interpreter.exe

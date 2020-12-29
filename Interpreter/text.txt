@@ -1,0 +1,24 @@
+/*
+示例代码：输出斐波那契数列
+*/
+{
+	int x;
+	int y;
+	int i;
+	x=1;
+	write x;
+	y=1;
+	write y;
+	int sum;
+	sum=1;
+	for(i=0;i<10;i=i+1)
+	{
+		x=y+sum;
+		write x;
+		y=sum+x;
+		write y;
+		sum=x+y;
+		write sum;	
+	}
+
+}
